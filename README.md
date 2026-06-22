@@ -1,6 +1,7 @@
 # Employee Management Dashboard - Backend
 
-Backend server for the Employee Management Dashboard application with MongoDB integration.
+A scalable RESTful API backend built with Node.js, Express.js, MongoDB, and Mongoose for managing employee records, authentication, search, filtering, pagination, and API documentation using Swagger.
+
 
 ## Setup Instructions
 
@@ -153,15 +154,19 @@ Use these credentials for testing login:
 
 ## Features
 
-- MongoDB database with Mongoose ODM
-- 22 sample employees (Indian-style data)
-- Email duplicate validation
-- Search across multiple fields
-- Department and status filtering
-- Pagination support
-- Sorting by any field
-- Proper error handling with status codes
-- CORS enabled for frontend integration
+## Features
+
+* Employee CRUD Operations
+* Employee Search & Filtering
+* Pagination & Sorting
+* MongoDB Integration with Mongoose
+* Swagger API Documentation
+* Database Seeding Support
+* Email Duplicate Validation
+* Error Handling & Validation
+* CORS Enabled for Frontend Integration
+* RESTful API Architecture
+  
 
 ## Quick Commands
 
